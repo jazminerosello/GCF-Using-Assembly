@@ -9,7 +9,7 @@
 a program that solves for the Greatest Common Factor (GCF) of two positive integers.
 Created a variable gcf that will contain the computed value.
 
-To run:
+## To run:
 
 file a.out
 
