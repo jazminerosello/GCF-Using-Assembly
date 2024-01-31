@@ -12,7 +12,11 @@ Created a variable gcf that will contain the computed value.
 To run:
 
 file a.out
+
 set disassembly-flavor intel
+
 b*exit_here
+
 r
+
 x/ub &gcf
